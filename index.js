@@ -1,4 +1,4 @@
-function RandomRoll(){
+function randomRoll(){
   let random1 = Math.floor(Math.random() * 6 + 1);
   let random2 = Math.floor(Math.random() * 6 + 1);
 
